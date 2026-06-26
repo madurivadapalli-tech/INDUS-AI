@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+langchain
+openai
+google-generativeai
+faiss-cpu
+sentence-transformers
+transformers
+torch
+pandas
+numpy
+scikit-learn
+pymupdf
+pytesseract
+pdfplumber
+python-dotenv
+requests
