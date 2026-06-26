@@ -1,0 +1,7 @@
+API_KEY = "YOUR_API_KEY"
+
+MODEL_NAME = "Gemini/OpenAI"
+
+VECTOR_DATABASE = "FAISS"
+
+OCR_ENGINE = "Tesseract"
